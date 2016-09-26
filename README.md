@@ -1,2 +1,2 @@
 # zsh-custom
-My ZSH_CUSTOM repo
+My `ZSH_CUSTOM` dir.
